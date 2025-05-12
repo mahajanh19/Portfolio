@@ -1,0 +1,40 @@
+Indicator,Description
+ABER_ZG_5_15,Adaptive Bollinger Envelope Reversal - Zigzag strategy with 5/15 periods
+ACCBL_20,Accelerator Bands Lower - 20 period
+ADX_14,Average Directional Index - trend strength over 14 periods
+AO_5_34,Awesome Oscillator using 5 and 34 SMA
+BBL_5_2.0,"Bollinger Bands Lower - 5 periods, 2.0 std dev"
+BBM_5_2.0,"Bollinger Bands Middle - 5 periods, 2.0 std dev"
+BBU_5_2.0,"Bollinger Bands Upper - 5 periods, 2.0 std dev"
+CMF_20,Chaikin Money Flow over 20 periods
+CCI_14_0.015,Commodity Channel Index with 14 period and constant 0.015
+DEMA_10,Double Exponential Moving Average over 10 periods
+EMA_10,Exponential Moving Average over 10 periods
+FWMA_10,Forward Weighted Moving Average over 10 periods
+HMA_10,Hull Moving Average over 10 periods
+MACD_12_26_9,MACD line with 12 and 26 EMA and 9 signal
+MFI_14,Money Flow Index over 14 periods
+OBV,On-Balance Volume
+PPO_12_26_9,"Percentage Price Oscillator with 12, 26 EMA and 9 signal"
+ROC_10,Rate of Change over 10 periods
+RSI_14,Relative Strength Index over 14 periods
+SMA_10,Simple Moving Average over 10 periods
+STOCHk_14_3_3,"Stochastic Oscillator %K line (14, 3, 3)"
+STOCHRSIk_14_14_3_3,Stochastic RSI %K line
+SUPERT_7_3.0,Supertrend Indicator with 7 period and 3.0 multiplier
+TRIX_30_9,Triple Exponential Average and signal line
+VWAP_D,Volume Weighted Average Price - Daily
+VWMA_10,Volume Weighted Moving Average over 10 periods
+WILLR_14,Williams %R over 14 periods
+ZL_EMA_10,Zero Lag Exponential Moving Average over 10 periods
+KAMA_10_2_30,Kaufman's Adaptive Moving Average with ER from 2 to 30
+TEMA_10,Triple Exponential Moving Average over 10 periods
+CFO_9,Chande Forecast Oscillator with 9-period smoothing
+ER_10,Efficiency Ratio over 10 periods
+TRUERANGE_1,True Range using 1-period difference
+ATRr_14,Average True Range ratio over 14 periods
+SUPERTd_7_3.0,Supertrend direction signal
+SUPERTs_7_3.0,Supertrend support/resistance level
+STDEV_30,Standard deviation over 30 periods
+VAR_30,Variance over 30 periods
+KST_10_15_20_30_10_10_10_15,Know Sure Thing - momentum oscillator with multiple ROC components
